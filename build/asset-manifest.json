@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Urmi/static/css/main.d038b53a.css",
+    "main.js": "/Urmi/static/js/main.965b961a.js",
+    "static/js/453.439798e4.chunk.js": "/Urmi/static/js/453.439798e4.chunk.js",
+    "static/media/7.PNG": "/Urmi/static/media/7.37e014048809dd13a92f.PNG",
+    "static/media/project-img2.png": "/Urmi/static/media/project-img2.177975233f3b67d1c760.png",
+    "static/media/bg9.png": "/Urmi/static/media/bg9.5bb1f2da77bc722f1863.png",
+    "static/media/bgs.PNG": "/Urmi/static/media/bgs.0d0616ce81ea5f0284e3.PNG",
+    "static/media/project-img4.png": "/Urmi/static/media/project-img4.ce96139eae8cf7f371b7.png",
+    "static/media/project-img1.png": "/Urmi/static/media/project-img1.c9349040ec853200786e.png",
+    "static/media/project-img8.png": "/Urmi/static/media/project-img8.1158ef6eee2a37663a60.png",
+    "static/media/project-img7.png": "/Urmi/static/media/project-img7.dc8b26ea9e54be76bea2.png",
+    "static/media/project-img6.png": "/Urmi/static/media/project-img6.62ad72cf02f7a42a12e7.png",
+    "static/media/bgp.JPG": "/Urmi/static/media/bgp.7f0b1853db3de0d66a43.JPG",
+    "static/media/project-img5.png": "/Urmi/static/media/project-img5.873d85f29eaad4a89b85.png",
+    "static/media/project-img3.jpeg": "/Urmi/static/media/project-img3.5d618f1d5c21a5de421a.jpeg",
+    "static/media/logo.png": "/Urmi/static/media/logo.a7304a58bed808524b36.png",
+    "static/media/footer-icon-3.svg": "/Urmi/static/media/footer-icon-3.a8534cc64f1be983fc76ba3747a0d106.svg",
+    "static/media/slick.svg": "/Urmi/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Urmi/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Urmi/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/nav-icon2.svg": "/Urmi/static/media/nav-icon2.6fc33df00bda35f1d16662dd785187b7.svg",
+    "static/media/slick.woff": "/Urmi/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/footer-icon-1.svg": "/Urmi/static/media/footer-icon-1.a176bf88b9be21134a8a69752b95f550.svg",
+    "index.html": "/Urmi/index.html",
+    "static/media/nav-icon1.svg": "/Urmi/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/Urmi/static/media/arrow2.0fe5371a0bd891fd29d362a72fcea879.svg",
+    "static/media/footer-icon-2.svg": "/Urmi/static/media/footer-icon-2.343a95ba50d9eb6742c95c6b358f4c1e.svg",
+    "static/media/arrow1.svg": "/Urmi/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.d038b53a.css.map": "/Urmi/static/css/main.d038b53a.css.map",
+    "main.965b961a.js.map": "/Urmi/static/js/main.965b961a.js.map",
+    "453.439798e4.chunk.js.map": "/Urmi/static/js/453.439798e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d038b53a.css",
+    "static/js/main.965b961a.js"
+  ]
+}
